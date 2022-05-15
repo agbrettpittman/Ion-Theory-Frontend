@@ -1,2 +1,2 @@
-# Ion-Theory-Frontend
-The front end for my personal website
+# Ion Theory Frontend
+The Next JS front end for my personal website
